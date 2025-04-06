@@ -1,19 +1,16 @@
 # Introduction
 
-This project was done as part of the *Software Engineering 2* course at Polytechnic of Milan. The aim was to explore the field of Quantum Computing to understand its characteristics and potential. In order to accomplish this task, I and other colleagues started from the paper [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf), from which each person chose an algorithm and then started its study. As you can understand, my algorithm is the Shor's algorithm.
+I did this project as way to learn more about the Shor's Algorithmn. The aim was to explore the field of Quantum Computing to understand its characteristics and potential. In order to accomplish this task, I and other colleagues started from the paper [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf), from which each person chose an algorithm and then started its study. As you can understand, my algorithm is the Shor's algorithm.
 
 # Shor's algorithm
 
 Shor's algorithm, named after mathematician Peter Shor, is a quantum algorithm (an algorithm that runs on a quantum computer) for integer factorization, formulated in 1994. Informally, it solves the following problem: Given an integer **N**, find its prime factors.
 
-## Disclaimer
 
-GitHub has some issues in rendering LaTeX notation. Hopefully, everything should be understandable, otherwise use the following link to visualize the notebook:
-- [Shor's algorithm (open with nbviewer)](https://nbviewer.jupyter.org/github/mett29/Shor-s-Algorithm/blob/master/Shor.ipynb?flush_cache=true)
 
-Alternatively, just clone this repository and launch ```jupyter lab```.
+Clone this repository and launch ```jupyter lab```.
 ```
-git clone https://github.com/mett29/Shor-s-Algorithm.git
+https://github.com/tmutambisi/Shor-s-Algorithm.git
 ```
 
 ## Overview
@@ -50,4 +47,4 @@ Shor's algorithm consists of two parts:
 - [Realization of a scalable Shor algorithm](http://science.sciencemag.org/content/351/6277/1068)
 - [ProjectQ](https://projectq.readthedocs.io/en/latest/index.html)
 - [Qiskit](https://qiskit.org/)
-- [YouTube channel with explanation](https://www.youtube.com/channel/UCq9B8tT3oXl8BSyaoBPQXQw/videos?&ab_channel=PedroHenrique)
+
